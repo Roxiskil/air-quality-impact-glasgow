@@ -72,7 +72,7 @@ core data-science reasoning and analytical structure.
 
 ## Project Output
 **Presentation:**  
-`Glasgow_Air_Quality_Health_Impact_Analysis.pdf`
+`[Glasgow_Air_Quality_Health_Impact_Analysis.pdf](Glasgow_Air_Quality_Health_Impact_Analysis)
 
 ## Relevance to Data Science & AI
 This project demonstrates the ability to:
