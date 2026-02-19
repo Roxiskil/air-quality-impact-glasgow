@@ -74,6 +74,21 @@ core data-science reasoning and analytical structure.
 **Presentation:**  
 `[Glasgow_Air_Quality_Health_Impact_Analysis.pdf](Glasgow_Air_Quality_Health_Impact_Analysis)
 
+## Visuals
+
+### Climate air quality benefits across Glasgow (spatial distribution)
+![Climate air quality benefits across Glasgow](visuals/benefits-map-glasgow.png)
+
+### Air-quality benefits rise sharply as Glasgow approaches net zero (2020–2050)
+![Air-quality benefits over time 2020-2050](visuals/benefits-over-time-2020-2050.png)
+
+### Top 5 neighbourhoods gaining most from cleaner air by 2050
+![Top 5 Glasgow neighbourhoods gaining most from cleaner air by 2050](visuals/top5-neighbourhoods-2050.png)
+
+### Total air-quality benefit for Glasgow in 2050
+![Total air-quality benefit for Glasgow in 2050](visuals/total-benefit-2050.png)
+
+
 ## Relevance to Data Science & AI
 This project demonstrates the ability to:
 - work with modelled datasets
